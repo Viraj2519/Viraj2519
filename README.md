@@ -91,23 +91,29 @@
   <a href="https://github.com/Viraj2519/steampulse">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj2519&repo=steampulse&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
+</div>
+
+<div align="center">
+  <h3>📅 DayFlow — Smart Calendar &amp; Productivity Platform</h3>
+  <p><em>Private — CoffeeCoders Team</em> &nbsp;·&nbsp; <a href="https://dayflow-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white" /></a></p>
+  <p>Full-stack calendar app syncing <strong>Google Calendar</strong> and <strong>Microsoft Outlook</strong> bidirectionally via OAuth 2.0. Built a BullMQ + Redis job queue for async FCM push notifications, real-time conflict detection with visual resolution banners, location-aware events via Google Maps, and per-event weather context.</p>
+  <p>
+    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </p>
+</div>
+
+<div align="center">
   <a href="https://github.com/Viraj2519/FDMS_Group15">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Viraj2519&repo=FDMS_Group15&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
-
-**📅 DayFlow — Smart Calendar & Productivity Platform** &nbsp;·&nbsp; *Private — CoffeeCoders Team*
-
-> Full-stack calendar app syncing **Google Calendar** and **Microsoft Outlook** bidirectionally via OAuth 2.0. Built a BullMQ + Redis job queue for async FCM push notifications, real-time conflict detection with visual resolution banners, location-aware events via Google Maps, and per-event weather context.
-
-![React 19](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Firebase FCM](https://img.shields.io/badge/Firebase_FCM-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ---
 
@@ -116,3 +122,24 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viraj2519&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viraj2519&theme=tokyonight&hide_border=true&background=0D1117" height="170" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viraj2519&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+</div>
+
+---
+
+## 🏆 Certifications
+
+| Certificate | Issuer | Year |
+|:---|:---|:---|
+| [Google Cybersecurity](https://coursera.org/share/2ff1bd0021c656593e22f30be61f0abc) | Google / Coursera | 2026 |
+| [Get Started Using Google Analytics](https://skillshop.credential.net/b96a7b79-7b15-4665-9ca4-4709460a5435) | Google SkillShop | 2026 |
+| [Manage GA4 Data and Learn to Read Reports](https://skillshop.credential.net/abe294b6-9d4d-4368-a07c-98b8ccfdc191) | Google SkillShop | 2026 |
+| [Dive Deeper into GA4 Data and Reports](https://skillshop.credential.net/9dc71017-3fa1-419e-b148-ea3922cfed9f) | Google SkillShop | 2026 |
+
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20&height=120&section=footer" />
+</div>
